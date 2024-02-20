@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mds-agent-management",
+  "private_key_id": "bcc43f1a58eecc0ab424f1e11d5276a97c4536be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAufcO5xWuDfjG\nvWMW/rtcOJa0JVWI6+o0i95pAu4NU/jOFNASkYUIMYLKT659/57bY1jVTlX6ptlr\ndEQwviTEiVp32hL9w36T4g7bGkwz0yTRxqGY8UZdlgElK+vEoUy2v0lgYA4Hw6Xy\n6i4SOK7cmWu9DRJfwLKsfdCI9ciOc2XHEIUneFl1p0aLPzXudWpHd4vls+H/0GLB\nHMwdgzymPWykZDOnud3wpXbq28+9xb+2wL3uGhiNqC9kr3K6/6udMh26iaSEeh6Y\n88Vg+v1sxwJrPiWaL2rSmiE/pnpGcmcik6FUAbxH2egvatXdlina/pWcKh3QDRz8\n36wCQR1lAgMBAAECggEAX56EfMDbKUmmUdhZ5ulIhQdQgh151B6USzDQDtLU0AkH\nCxwZZfUMB1YlOYISJVJjex7Nzrr4fo00lxMO2A4myNoK6CbqwDuzu+RvEXb5MsdB\n39CIkYy3qCwJ8mrZpWuP16WNXsMZgvGnjp9wbzrvSuTVpuzq3lYJb/pWMfWb5Uxw\nD6AtxEiQ0dOvANxE6Cwrb8vuLekoqZO3GQShWuVaM0YzUPyBiThjuzetciyARce+\n7y7qNBP9WkElfO8JZU/U45WF4z5SNfgpsaSPxeXCn6ogYvC9sbTXa0RqLmfyl3Nl\nSr2dwOw0KXEU2CYTcmza4cm/mgtnT0cbfylpdtPh2wKBgQDqAS/D3X28rODSsOiO\nQmZEHjU3J5EUSA0tiYu2F7G3KMtuJ1+oyHyCUADL3BjD/qYajET1xCbWu469owtp\nJbPqM+X7GmXV4SEeSRfFUXqPkCe6P2mvpKG9yN4nAtlgIsknEBmH5OuQWvcEl1UR\n7Hb8tKhhDbrLkI0h6iyUCIu4EwKBgQDS14INsMS3QjcBOB4alNo3hpSwQPk5jQIc\n9T7M9KEy+Wq/AmwPB3znE4NzM+BdsTYqKPocmIT8brttz7K34m94dpB7gfDRJLVw\nVToTz4syDszDyo5RUmK7EjMCJcNmAIPx/zA7u6tT/aFu5m13wdVJx4bq3n06+juB\ncju7Q1bzpwKBgHpI9HUeoj6e+T4hROZSvK6MOrL/8kju/jP11RTrfOuCXgzKdqr1\nWlufA0uFUUvbH2JwOvlT8Bf3G7juI2BnW4XgaSa3vM/wPiZdfBaZZbrwUlJ6IPiw\nx/UtqyonywD6LLRFLZJehtuBLeUwUDx1nhihL/zH9/25JIe8oF8buCgRAoGATyoJ\ns9g+VEyxWGzYqMRhFt4aL/+FVD2EoJjYpp3ndLs/gE6Jgi8ej6i8/2FoCeXC35uZ\nJWmC7UEqcLW+ddq4XfOuliEY6X4t/eqSLuQLcJUr/wur2g7j8TeJHXJOZpsk75UQ\naC0zzAp8NaahTYji65vWJZO6U42nEBhzIwHKwRsCgYBCFlef7T/8BKVddq8jFbnt\nhWGhm8vRiGXcaOupf3NXYKR43kqTXz8jqY10ffi2RZrFFyO2E7cAwEsTzW2eKmqF\nvBUo+F9/Lq/iuyRwnktqL3XhTHfEOAmq2zc5cpqg+uNLnCbxPwq7+QLE1Nm5opBh\nUXAHzBhYnpR95Q04SpYybw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mds-agent@mds-agent-management.iam.gserviceaccount.com",
+  "client_id": "106106628866103709832",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mds-agent%40mds-agent-management.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
